@@ -1,0 +1,6 @@
+We have to stand with our North Korean allies.
+1 2 4 8 16 32
+0 987 || 1 715 || 2 740 || 3 603 || 4 944 || 5 863 || 6 644 || 7 806
+4 2 DrEvil //5 2 is possible, but there is no secret_phase
+6 4 2 5 3 1
+50 || 45 || 40
